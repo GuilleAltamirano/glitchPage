@@ -1,0 +1,19 @@
+.containerFooterItemTwo {
+    display: grid;
+    grid-template-columns: 80% 20%;
+    border-left: 1px solid black;
+}
+
+.containerIframe {
+    display: inline;
+    padding: 20px 0 20px 50px;
+}
+.containerIMGrrss {
+    display: grid;
+}
+.rrssFooter {
+    display: flex;
+    max-width: 50px;
+    max-width: 50px;
+    align-self: center;
+}

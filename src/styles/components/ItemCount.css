@@ -1,0 +1,34 @@
+.containerContador {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    background-color: white;
+    border-radius: 50px;
+    max-width: 250px;
+}
+
+.buttonItemCount {
+    max-width: 60px;
+    border-radius: 100%;
+    background-color: transparent;
+    border: none;
+    font-size: 200%;
+    display: flex;
+    justify-self: center;
+    align-self: center;
+}
+
+.contadorItemCount {
+    color: black;
+    display: flex;
+    justify-self: center;
+    text-align: center;
+}
+
+.agregarCarritoBT {
+    border-radius: 50px;
+    border-color: white;
+    background-color: white;
+    color: black;
+    opacity: 75%;
+    padding: 5px;
+}

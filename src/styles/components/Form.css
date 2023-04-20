@@ -1,0 +1,28 @@
+.containerForm {
+    display: grid;
+    grid-template-rows: 16% 16% 16% 16% 16% 16%;
+    max-width: 400px;
+    height: 500px;
+    justify-content: center;
+    align-content: center;
+    background-color: gray;
+    border-radius: 30px;
+    padding: 20px;
+}
+
+.inputForm {
+    padding: 1px;
+    margin: 10px;
+    border-radius: 20px;
+    border-color: white;
+}
+
+.buttonComprar {
+    margin-top: 50px;
+    border-radius: 30px;
+    max-width: 150px;
+}
+
+.reCaptcha {
+    margin-top: 10px;
+}

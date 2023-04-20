@@ -1,0 +1,27 @@
+.containerItemDetail {
+    background-color: black;
+    padding: 150px 50px 50px 50px;
+}
+
+.ItemDetail {
+    background-color: gray;
+    border-radius: 30px;
+    padding: 50px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.imgItemDetail {
+    border-radius: 30px;
+}
+
+.titleItemDetail {
+    color: white;
+    font-size: 200%;
+}
+
+.buttonCarritoDetail {
+    border-radius: 50px;
+    padding: 2px;
+    opacity: 50%;
+}

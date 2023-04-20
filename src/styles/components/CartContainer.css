@@ -1,0 +1,59 @@
+.sectionCartContainer {
+    padding-top: 140px;
+    padding-bottom: 100px;
+}
+
+.containerMapProduct {
+    padding: 20px;
+}
+
+.containerProductCart {
+    background-color: gray;
+    border-radius: 30px;
+    display: grid;
+    grid-template-columns: 10% 50% 10% 10% 10% 10%;
+    width: 100%;
+    height: 150px;
+    border-bottom: 1 solid black;
+    margin: 10px;
+    align-content: center;
+}
+.containerProductCart img{
+    display: flex;
+    max-width: 120px;
+    max-height: 120px;
+    border-radius: 30px;
+    justify-self: center;
+    align-self: center;
+    padding: 10px;
+}
+
+.divButtonDeleteProduct {
+    display: flex;
+    padding: 5px;
+    justify-self: center;
+    align-self: center;
+}
+
+.buttonDeleteProduct {
+    max-width: 90px;
+    max-height: 70px;
+    border-radius: 20px;
+    justify-self: center;
+    align-self: center;
+    padding: 10px;
+    border-color: white;
+}
+
+.containerFormCart {
+    display: grid;
+    grid-template-rows: 90% 10%;
+    justify-content: center;
+    padding: 100px;
+}
+
+.buttonLimpiarCart {
+    margin-top: 20px;
+    border-radius: 20px;
+    max-width: 150px;
+}

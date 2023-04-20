@@ -1,0 +1,30 @@
+.containerCarrito{
+    position: fixed;
+    bottom: 65px;
+    right: 0;
+    z-index: 1000;
+    text-decoration: none;
+}
+
+
+.carrito {
+    width: 40px;
+    height: 40px;
+}
+.totalCarrito{
+    background-color: red;
+    color: black;
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    top: 0;
+    padding: 0 5px 0 5px;
+}
+.whatsapp {
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+    z-index: 1000;
+}

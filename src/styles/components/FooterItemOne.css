@@ -1,0 +1,9 @@
+.ContainerFooterHorarios {
+    border-right: 1px solid black;
+}
+.logoFooter {
+    max-width: 200px;
+    max-height: 200px;
+    width: 100%;
+    height: 100%;
+}

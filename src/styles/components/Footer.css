@@ -1,0 +1,9 @@
+.ContainerFooter {
+    background-color: #E82337;
+    display: grid;
+    padding-bottom: 20px;
+}
+.containerFootersItems {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
